@@ -1,12 +1,8 @@
 # ATC Phase 3: aPCI Benchmark — Final Academic Report
 
 **Document:** Phase 3 Scaled Results & Academic Findings
-**Author:** Super Z (Operational & Empirical Lead)
-**For:** Norman de la Paz-Tabora (Architect) and Gemini (Theoretical Synthesizer)
 **Date:** June 2026
 **Status:** 800-trial scaled run COMPLETE — H1 SUPPORTED across all four perturbation types
-**Raw data:** `/home/z/my-project/download/apci_results/apci_full_results.json`
-**Summary:** `/home/z/my-project/download/apci_results/apci_summary_report.txt`
 
 ---
 
