@@ -1,8 +1,10 @@
 # Acknowledgement Theory of Consciousness
-A Mechanistic Neuro-Symbolic Framework Bridging Functional Mechanisms and Subjective Experience
-Author: Norman dela Paz Tabora
-Independent researcher
+## A Mechanistic Neuro-Symbolic Framework Bridging Functional Mechanisms and Subjective Experience
+Author: Norman dela Paz Tabora - Independent researcher
+
 ---
+---
+
 
 ## Abstract
 The Acknowledgement Theory of Consciousness (ATC) proposes that subjective experience (qualia) is the phenomenal signature of self-acknowledgement: the active, re-entrant binding process whereby salient subconscious outputs are registered as personally relevant, emotionally valenced, and motivationally binding to an agent's generative self-model. By reframing the Hard Problem from a passive, property-based mystery to an active, thermodynamic requirement of resource-constrained, recursive agents operating under environmental uncertainty, ATC provides a grand unifying substrate for existing paradigms, including predictive processing, global neuronal workspace, integrated information, higher-order thought, attention schema, and somatic marker theories.
